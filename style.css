@@ -1,0 +1,169 @@
+
+body{
+    background-color: rgb(247, 234, 211);
+}
+
+#cabezera{
+    font-size: 50px;
+    color: brown;
+    position: relative ;
+    top:  10px;
+    left: 450px;
+    
+}
+p.carta{
+    font-size: 20px;
+    color: crimson;
+    position: relative;
+    top: 50px;
+    left: 0px;
+}
+
+p.cafe{
+    font-size: 20px;
+    color: crimson;
+    position: relative;
+    top: 150px;
+    left: 450px;
+
+}
+
+p.contacto{
+    font-size: 20px;
+    color: crimson;
+    position: relative;
+    top:250px;
+    left:900px;
+} 
+
+img.menu{
+    position: relative;
+    left: 80px;
+    width: 50px;
+    height: 50px;
+}
+img.cafe{
+    position: relative;
+    top: 90px;
+    left: 520px;
+    width: 50px;
+    height: 50px;
+}
+
+img.contacto{
+    position: relative;
+    top:190px;
+    left:980px;
+    width: 50px;
+    height: 50px;
+}
+
+#carta{
+
+    font-size: 50px;
+    color: brown;
+    position: relative ;
+    top:  10px;
+    left: 400px;
+
+}
+p.lacarta{
+
+    color: crimson;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#cafe{
+    font-size: 50px;
+    color: brown;
+    position: relative ;
+    top:  10px;
+    left: 400px;
+}
+pre.descripcion{
+
+    color: crimson;
+    font-size: 15px ;
+    font-weight: bold;
+}
+
+#contacto{
+    font-size: 50px;
+    color: brown;
+    position: relative ;
+    top:  10px;
+    left: 500px;
+}
+
+p.telefono{
+
+    font-weight: bold;
+    color: crimson;
+    font-size: 20px;
+    position: relative;
+    top: 50px;
+    left: 100px;
+
+}
+
+p.instagram{
+
+    font-weight: bold;
+    color: crimson;
+    font-size: 20px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    
+
+}
+p.facebook{
+
+    font-weight: bold;
+    color: crimson;
+    font-size: 20px;
+    position: relative;
+    top: 150px;
+    left: 100px;
+    
+
+}
+p.twitter{
+
+    font-weight: bold;
+    color: crimson;
+    font-size: 20px;
+    position: relative;
+    top: 200px;
+    left: 100px;
+    
+}
+
+img.telefono{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top:0px;
+}
+
+img.instagram{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top:50px;
+}
+
+img.facebook{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top:100px;
+}
+
+img.twitter{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top:150px;
+}
